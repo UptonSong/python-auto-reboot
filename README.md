@@ -19,7 +19,7 @@ markdown
 | 4    | 讀取 CSV                       | 讀取與解析表格資料                                           | [day4](day4/read_csv.py) |
 | 5    | 批次檔案改名                   | 自動為檔案加上日期標籤                                       | [day5](day5/rename_files.py) |
 | 6    | 技術筆記 + 範例展示（進行中）  | 整理已完成的內容，建立 GitHub README 作品集                   | —          |
-| 7    | 最終挑戰（待揭曉）             | 綜合運用前幾天的技能，完成一個可實用的自動化專案               | —          |
+| 7    | 最終挑戰（待揭曉）             | 綜合運用前幾天的技能，完成一個可實用的自動化專案               | [day7](day7/day7_auto_tool.py)        |
 
 ---
 
@@ -36,6 +36,8 @@ project/
 │ └── read_csv.py
 ├── day5/
 │ └── rename_files.py
+├── day7/
+│ └── day7_auto_tool.py
 └── README.md
 
 yaml
